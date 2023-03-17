@@ -12,5 +12,5 @@ N/A
 
 ## License
 
-Refer to license in the repo.
+N/A
 
