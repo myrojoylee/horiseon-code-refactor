@@ -4,13 +4,16 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-The purpose of the challenge was to improve the starter code given in order for there to be semantic HTML elements as well as cleaner CSS styling. In addition, any missing links were added and tested to be working while alt text was given to images in order for the website to be more accessible. 
+The purpose of the challenge was to improve the starter code given in order for there to be semantic HTML elements as well as cleaner CSS styling. In addition, any missing links were added and tested to be working while alt text was given to images in order for the website to be more accessible.
 
-## Installation
+## Usage
 
-N/A
+<img src="https://github.com/myrojoylee/refactor-code-module-challenge-one/blob/main/assets/images/screenshot.jpg" width = "500" />
+
+[Click here for repo](https://github.com/myrojoylee/refactor-code-module-challenge-one)
+
+[Click here for live site](https://myrojoylee.github.io/refactor-code-module-challenge-one/)
 
 ## License
 
 N/A
-
