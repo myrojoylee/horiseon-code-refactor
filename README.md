@@ -6,12 +6,12 @@ The purpose of the challenge was to improve the starter code given in order for 
 
 ## Usage
 
-<img src="https://github.com/myrojoylee/refactor-code-module-challenge-one/blob/main/assets/images/screenshot.jpg" width = "500" />
-<img src="https://github.com/myrojoylee/refactor-code-module-challenge-one/blob/main/assets/images/screenshot_2.jpg" width = "500" />
+<img src="https://github.com/myrojoylee/horiseon-code-refactor/blob/main/assets/images/screenshot.jpg" width = "500" />
+<img src="https://github.com/myrojoylee/horiseon-code-refactor/blob/main/assets/images/screenshot_2.jpg" width = "500" />
 
-[Click here for repo](https://github.com/myrojoylee/refactor-code-module-challenge-one)
+[Click here for repo](https://github.com/myrojoylee/horiseon-code-refactor)
 
-[Click here for live site](https://myrojoylee.github.io/refactor-code-module-challenge-one/)
+[Click here for live site](https://myrojoylee.github.io/horiseon-code-refactor/)
 
 ## License
 
