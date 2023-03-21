@@ -15,4 +15,4 @@ The purpose of the challenge was to improve the starter code given in order for 
 
 ## License
 
-N/A
+Refer to the license in the repository.
