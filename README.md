@@ -7,6 +7,7 @@ The purpose of the challenge was to improve the starter code given in order for 
 ## Usage
 
 <img src="https://github.com/myrojoylee/refactor-code-module-challenge-one/blob/main/assets/images/screenshot.jpg" width = "500" />
+<img src="https://github.com/myrojoylee/refactor-code-module-challenge-one/blob/main/assets/images/screenshot_2.jpg" width = "500" />
 
 [Click here for repo](https://github.com/myrojoylee/refactor-code-module-challenge-one)
 
