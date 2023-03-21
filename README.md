@@ -1,4 +1,4 @@
-# <REFACTOR CODE - MODULE 1 CHALLENGE>
+# <HORISEON CODE - REFACTOR>
 
 ## Description
 
